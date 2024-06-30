@@ -1,4 +1,5 @@
-**Movie-Genre-Classification : **
+** Movie-Genre-Classification : **
+
 This project tackles the task of movie genre classification using machine learning techniques. 
 The goal is to predict the genre of a movie based on its title and description. 
 The process involves data cleaning, exploratory data analysis (EDA), and preprocessing steps like handling missing values, removing noise, and translating non-English descriptions. 
