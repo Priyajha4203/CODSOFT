@@ -1,4 +1,4 @@
-#**Spam SMS Detection :**
+**Spam SMS Detection :**
 
 This project tackles the growing issue of spam text messages. We'll build a machine learning model to classify incoming SMS messages as either spam or ham. The model will utilize the multinomial naive bayes algorithm, which analyzes the frequency of words in a message to predict its spam likelihood. The project will involve:
 
